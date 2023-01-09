@@ -4,3 +4,5 @@ Scripts used to solve the 2022 Advent of Code problems. These are daily problems
 The solutions shown here were all done using Python.
 
 More information on Advent of Code can be found here: https://adventofcode.com/
+
+My personal favourite day was Day 12 where a breadth first search was implemented in order to implement a hill climbing algorithm.
